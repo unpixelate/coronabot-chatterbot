@@ -2,8 +2,8 @@ gunicorn==19.0.0
 blis==0.2.4
 certifi==2019.11.28
 chardet==3.0.4
-ChatterBot==1.0.5
-chatterbot_corpus==1.4.0
+ChatterBot==1.0.1
+chatterbot_corpus==1.2.0
 click==7.1.1
 cymem==2.0.3
 Flask==1.1.1
@@ -21,7 +21,7 @@ preshed==2.0.1
 pymongo==3.10.1
 python-dateutil==2.7.5
 pytz==2019.3
-PyYAML==5.1
+PyYAML==3.12
 requests==2.23.0
 six==1.14.0
 spacy==2.1.9
